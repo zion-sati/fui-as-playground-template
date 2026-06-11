@@ -1,0 +1,11 @@
+{
+  "installDependencies": true,
+  "startCommand": "npm run dev",
+  "env": {
+    "NODE_VERSION": "26"
+  },
+  "userInterface": {
+    "workspaceLayout": "sidebar"
+  }
+}
+
